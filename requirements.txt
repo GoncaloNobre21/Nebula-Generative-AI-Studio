@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+anthropic
+transformers
+langchain
+pydantic
+torch
